@@ -33,6 +33,8 @@ Not Spam
 
 🧠 Model Used
 Multinomial Naive Bayes: Best suited for word counts or TF-IDF scores in text classification.
+
+
 🔍 Future Improvements:
 Add more advanced preprocessing (stemming, stopword removal)
 Try other models (SVM, Logistic Regression)
